@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1>
-  <b>Winner Takes All Hash in Python</b> 
+  <b>Winner Take All Hash in Python</b> 
 </h1>
 Winner Take All Hash algorithm by J. Yagnik, implemented in Python. <br>This repo contains a brief study on this hashing algorithm. <br>
 Original paper:
